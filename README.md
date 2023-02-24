@@ -1,5 +1,4 @@
-
-# Weather-to-Fly-WtF-
+# UAV-Consolidated-Weather-Forecast
 As a hobbyist pilot, I always have list of locations in my "want-to-fly watchlist". 
 The main determinant factors for flying are:
 * (a) levels of wind, 
